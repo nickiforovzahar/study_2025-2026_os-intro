@@ -51,7 +51,7 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 
 ## Установка программ 
 
-- Устанавливаем pandoc, pandoc-crossref,quarto, LaTex.
+- Устанавливаем git, gh, git-flow, node.js, pnpm
 
 ![Скриншот терминала 1](image/1.png){#fig-001 width=70%}
 
