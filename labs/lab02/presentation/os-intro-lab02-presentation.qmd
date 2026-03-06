@@ -65,9 +65,12 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ## Создание ключей SSH и GPG
 
 - Создаем SSH и GPG ключи
-- Добавляем их в свой профиль на GitHub.
 
 ![Скриншот терминала 3](image/3.png){#fig-003 width=70%}
+
+## Добавление на GitHub
+
+- Добавляем их в свой профиль на GitHub.
 
 ![GPG ключ](image/4.png){#fig-004 width=70%}
 
