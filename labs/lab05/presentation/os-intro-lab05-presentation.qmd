@@ -85,6 +85,8 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 
 ![Просмотр пароля](image/6.png){#fig-006 width=70%}
 
+rsync -vr /home/username/Documents/To_check_rsync.txt /home/username/Desktop/To_check_rsync_two.txt
+
 # Выводы
 
 - Изучен менеджер паролей pass
